@@ -1,0 +1,33 @@
+{
+  "name": "react-native-element-ui",
+  "title": "React Native Element Ui",
+  "version": "1.0.0",
+  "description": "VueJS Element UI for React Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iMont4/react-native-element-ui.git",
+    "baseUrl": "https://github.com/iMont4/react-native-element-ui"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "iMont4",
+    "email": "mo121ntazeri@email.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.9.0",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.1"
+  }
+}
